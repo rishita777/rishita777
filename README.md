@@ -2,6 +2,8 @@
 
 <h1>I am Rishita Saha</h1>
 
+<h4>I am skilled and have handson experience  on Java,Springboot,Angular,JS
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently persuing asperentship on NIIT STACKROUTE as Full Stack Devloper
