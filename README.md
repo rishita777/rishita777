@@ -2,7 +2,7 @@
 
 <h1>I am Rishita Saha</h1>
 
-<h4>I am skilled and have handson experience  on Java,Springboot,Angular,JS
+<h4>I am skilled and have handson experience  on Java,Springboot,Angular,JS</h4>
 
 Here are some ideas to get you started:
 
